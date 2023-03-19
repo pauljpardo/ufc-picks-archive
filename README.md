@@ -23,10 +23,10 @@ MVP will allow users to view upcoming fights and picks for each of them. List be
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
 | React *           | _A JavaScript library that is used for building front end interfaces_ |
-| Angular *  | _ MVC based framework that helps create database-backend web apps _ |
+| Angular *  | _MVC based framework that helps create database-backend web apps_ |
 | Node.js   *       | _Javascript runtime environment that runs as asynchronously aids in building scalable network applications_ |
-| Ruby on Rails  *  | _ MVC based framework that helps create database-backend web apps _ |
-| Python   | _ Powerful language that helps create database-backend web apps _ |
+| Ruby on Rails  *  | _MVC based framework that helps create database-backend web apps_ |
+| Python*   | _Powerful language that helps create database-backend web app_ |
 
 <br>
 
