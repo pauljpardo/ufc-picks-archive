@@ -5,7 +5,7 @@
 **UFC Pick Archive** (name tentative) is a website created by a huge UFC fan who spends far too much time watching UFC podcasts. Through being a fan I always thought 
 there should be a resource that lists the picks each social media influencer / pundit / analyst make on upcoming fights, listing their percentage of correctness and pick history. 
 
-Site name ideas: UFCPickArchive.com, OctagonPicks.com, MMAInfluencerPicks.com, UFCInfluencerPicks.com, SocialUFCPicks.com, UFCInfluencerInsights.com
+Site name ideas: UFCPickArchive.com, OctagonPicks.com, MMAInfluencerPicks.com, UFCInfluencerPicks.com, SocialUFCPicks.com, UFCInfluencerInsights.com, UFCPicksWiki.com
 
 <br> 
 
